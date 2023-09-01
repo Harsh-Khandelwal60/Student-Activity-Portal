@@ -5,11 +5,11 @@ import HeroNew from './Hero/HeroNew'
 import HEvents from './HEvents'
 import styled, { StyledComponent } from 'styled-components'
 import HIntro from './HIntro'
-import Footer from '../Footer/Footer'
+// import Footer from '../Footer/Footer'
 import ScrollToTopH from '../ScrollToTopH'
 
 
-import Intro from '../About/Intro'
+// import Intro from '../About/Intro'
 
 const HomeTag = styled.section`
   position: relative;
@@ -27,7 +27,7 @@ const Home = () => {
         <HEvents/>
         <Hblog/>
         <FAQ/>
-        <Footer/>
+        {/* <Footer/> */}
     
     </HomeTag>
   )

@@ -4,7 +4,7 @@ import { Route,Routes} from "react-router";
 // import Navbar from "./components/NavBar/Navbar";
 // import Events from "./components/Events/Events";
 // import About from "./components/About/About";
-// import Home from "./components/Home/Home";
+import Home from "./components/Home/Home.jsx";
 
 // import Resources from "./components/Resources/Resources";
 

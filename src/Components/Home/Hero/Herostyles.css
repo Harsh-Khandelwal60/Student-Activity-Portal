@@ -1,0 +1,19 @@
+.image-container {
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center; /* Centers the image vertically */
+    height: 100vh; /* Adjust this value based on your desired height */
+  }
+  
+  .centered-image {
+    max-width: 100%; /* Ensures the image doesn't exceed its container */
+    max-height: 100%; /* Ensures the image doesn't exceed its container */
+  }
+  @media (max-width: 600px){
+    .intro {
+      width: 86%;
+      padding: 0px;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+  }
+}
