@@ -466,32 +466,7 @@ margin-top: 16px;
 }
 
 
-// .item2 {
-//   width: 236px;
-//   height: 350px;
-//   background: url(https://drive.google.com/uc?export=view&id=1YEpfNWUT5icgrrhcRiw3zBajyqZKdlaL);
-//   object-fit: cover;
-//   border-radius: 10px;
-// }
 
-//Take everything thats not true with the condition in the parentheses
-// .item2:not(:first-child){
-// margin-top: 16px;
-// }
-
-
-// .item3 {
-//   width: 236px;
-//   height: 350px;
-//   background: url(https://drive.google.com/uc?export=view&id=1Sa1Qp8na6l3YfZqsTN7PDsn5u2UIHxV2);
-//   object-fit: cover;
-//   border-radius: 10px;
-// }
-
-// //Take everything thats not true with the condition in the parentheses
-// .item3:not(:first-child){
-// margin-top: 16px;
-// }
 @media (max-width: 800px) {
  .grid-container{
   margin-top: -33vh;

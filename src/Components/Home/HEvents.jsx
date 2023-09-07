@@ -1,4 +1,4 @@
-// import ECarousel from '../Events/ECarousel'
+import ECarousel from '../Events/ECarousel'
 import React from 'react'
 import styled from 'styled-components'
 import { Splide } from '@splidejs/react-splide'
@@ -26,7 +26,7 @@ new Splide( '.splide' ).mount();
   })
   return (
     <EventsSec className='reveal'>
-         {/* <ECarousel/>  */}
+         <ECarousel/> 
     </EventsSec>
   )
 }

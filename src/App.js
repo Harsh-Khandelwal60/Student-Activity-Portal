@@ -1,10 +1,10 @@
 
 import React from "react";
 import { Route,Routes} from "react-router";
-// import Navbar from "./components/NavBar/Navbar";
+import Navbar from "./components/NavBar/Navbar";
 import Events from "./components/Events/Events";
 // import About from "./components/About/About";
-import Home from "./components/Home/Home.jsx";
+import Home from "./components/Home/Home";
 
 // import Resources from "./components/Resources/Resources";
 
@@ -14,7 +14,7 @@ function App() {
 
   return < >
 
-      {/* <Navbar /> */}
+      <Navbar />
       <Routes >
       <Route path = "/" exact  element = { < Home />} /> 
       {/* <Route path = "/about"  element = { < About />}/> */}
