@@ -1,4 +1,4 @@
-// import Intro from '../About/Intro'
+import Intro from '../About/Intro'
 import React from 'react'
 import styled from 'styled-components'
 
@@ -6,7 +6,7 @@ const HIntro = () => {
   return (
     <IntroSec>
         <Contents>
-        {/* <Intro/> */}
+        <Intro/>
         </Contents>
     </IntroSec>
   )

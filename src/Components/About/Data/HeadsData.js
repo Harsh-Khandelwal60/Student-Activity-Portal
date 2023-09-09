@@ -1,0 +1,66 @@
+export const SMList = [
+    {
+        id: 1,
+        name: 'Prof. Joydip Dhar',
+        designation: 'Dean of Studnent Affairs',
+        linkedin: 'https://www.linkedin.com/in/joydip-dhar-0685b424/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FJoydeep%20dhar.jpg?alt=media&token=e384badf-5709-461c-93a8-807f261f46a2',
+    },
+    {
+        id: 2,
+        name: 'Dr. Arun Kumar',
+        designation: 'cultural',
+       
+        linkedin: 'https://www.linkedin.com/in/dr-arun-kumar-agariya-32a21a69/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FArun%20kumar.jpg?alt=media&token=9a29a837-3c9e-4eb0-95de-a21c011ef9dd',
+    },
+    {
+        id: 3,
+        name: 'Dr. Somesh Kumar',
+        designation: 'cultural',
+        linkedin: 'https://www.linkedin.com/in/dr-somesh-kumar-dahiya-b551a836/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FSomaesh%20Kumar.jpg?alt=media&token=8e8fcf7a-ab40-47d4-8a9c-f463a8415cbd',
+    },
+    {
+        id: 4,
+        name: 'Dr. Ajay Kumar',
+        designation: 'Sports',
+        linkedin: 'https://www.linkedin.com/in/dr-ajay-kumar-563a1a16/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FAjay%20Kumar.jpg?alt=media&token=57067d22-3240-41a0-a3d2-171a2ac8604a',
+    },
+    {
+        id: 5,
+        name: 'Dr. Santosh Singh Rathore',
+        designation: 'Sports',
+        linkedin: 'https://www.linkedin.com/in/santosh-rathore-bb0b0229/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FSantosh%20Kumar.jpg?alt=media&token=2d09abd4-0c58-4cc3-8ec4-acf5320bd174',
+    },
+    {
+        id: 6,
+        name: 'Dr. KK Patnayak',
+        designation: 'Technical',
+        linkedin: 'https://www.linkedin.com/in/kiran-kumar-pattanaik-6a402229/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FKK%20patnyak.jpg?alt=media&token=f903381e-ed0e-4f1c-8509-28d2dc2f5600',
+    },
+    {
+        id: 7,
+        name: 'Dr. Sunil Kumar',
+        designation: 'Technical',
+        linkedin: 'https://www.linkedin.com/in/sunil-kumar-8134ab200/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FSunil%20Kumar.png?alt=media&token=680439c5-b711-43d0-84a2-cadc9c04d8f1',
+    },
+    {
+        id: 8,
+        name: 'Dr. Manoj Kumar Dash',
+        designation: 'Student Welfare',
+        linkedin: 'https://www.linkedin.com/in/dr-manoj-kumar-dash-a27a921b/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FManoj%20Kumar%20das.jpg?alt=media&token=8b34fe2d-7bb8-4507-bbc9-7817a11bce58',
+    },
+    {
+        id: 9,
+        name: 'Dr. Pinku Ranjan',
+        designation: 'Student Welfare',
+        linkedin: 'https://www.linkedin.com/in/dr-pinku-ranjan-62aa0332/',
+        pfp: 'https://firebasestorage.googleapis.com/v0/b/mini-btp.appspot.com/o/faculty%2FPinku%20ranjan.jpg?alt=media&token=41f4d2a1-ed5b-407c-acd3-2cb3851435a9',
+    },
+];
