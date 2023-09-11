@@ -9,7 +9,7 @@ import Footer from '../Footer/Footer'
 import ScrollToTopH from '../ScrollToTopH'
 
 
-import Intro from '../About/Intro'
+
 
 const HomeTag = styled.section`
   position: relative;

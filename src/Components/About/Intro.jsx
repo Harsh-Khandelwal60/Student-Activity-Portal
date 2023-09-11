@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import styled from "styled-components";
-// import Bolb from "./Bolb";
+import Bolb from "./Bolb";
 
 const Intro = () => {
   return (

@@ -3,7 +3,7 @@ import ScrollToTop from '../ScrollToTop'
 import React from 'react'
 import styled from 'styled-components'
 import Intro from './Intro'
-// import Teamtabs from './Teamtabs'
+import Teamtabs from './Teamtabs'
 
 const AboutTag=styled.section`
   position: relative;
@@ -43,7 +43,7 @@ const About = () => {
         <Intro/>
         <hr/>
         <p className="text-blk team-head-text" id='team'>Our Team</p>
-        {/* <Teamtabs /> */}
+        <Teamtabs />
         <Footer/>
         <ScrollToTop/>
     </AboutTag>
